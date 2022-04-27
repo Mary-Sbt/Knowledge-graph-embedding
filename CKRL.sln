@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CKRL", "CKRL.pyproj", "{2BCAEF7C-83FF-4A8C-ADEF-92C899B776EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BCAEF7C-83FF-4A8C-ADEF-92C899B776EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCAEF7C-83FF-4A8C-ADEF-92C899B776EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0618F71E-BB7A-4B1A-9452-55730B22432B}
+	EndGlobalSection
+EndGlobal
